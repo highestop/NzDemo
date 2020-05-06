@@ -1,0 +1,29 @@
+{
+  "name": "nz-next-demo",
+  "version": "9.1.0",
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "~9.1.4",
+    "@angular/common": "~9.1.4",
+    "@angular/core": "~9.1.4",
+    "@angular/forms": "~9.1.4",
+    "@angular/localize": "^9.1.4",
+    "@angular/platform-browser": "~9.1.4",
+    "@angular/platform-browser-dynamic": "~9.1.4",
+    "@angular/router": "~9.1.4",
+    "ng-zorro-antd": "^9.1.0",
+    "rxjs": "^6.5.5"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-ng-packagr": "^0.901.4",
+    "@angular/cli": "~9.1.4",
+    "@angular/compiler": "^9.1.4",
+    "@angular/compiler-cli": "^9.1.4",
+    "codelyzer": "^5.2.2",
+    "ng-packagr": "^9.1.2",
+    "prettier": "^2.0.5",
+    "tslint": "^6.1.2",
+    "tslint-config-prettier": "~1.18.0",
+    "typescript": "~3.8.3"
+  }
+}
